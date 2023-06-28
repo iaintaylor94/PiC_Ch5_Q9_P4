@@ -1,6 +1,6 @@
 # Programming in C
 ## Chapter 5
-### Question 1: Part 3A
+### Question 1: Part 4
 
 This problem is from chapter 5 of the textbook, it is to improve the triangular number program by asking for user input.[^1]
 

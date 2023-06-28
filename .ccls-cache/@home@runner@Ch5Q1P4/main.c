@@ -1,5 +1,3 @@
-// program to generate the first 200 triangular numbers.
-
 #include <stdio.h>
 
 int main(void) {
@@ -11,7 +9,7 @@ int main(void) {
 
   triangularNumber = 0;
 
-  for (n = 1; n<=number; n++) {
+  for (n = 1; n <= number; n++) {
     triangularNumber += n;
   }
 
