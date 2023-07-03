@@ -9,8 +9,10 @@ int main(void) {
 
   triangularNumber = 0;
 
-  for (n = 1; n <= number; n++) {
+  n = 1;
+  while (n <= number) {
     triangularNumber += n;
+    n++;
   }
 
   printf ("Triangular number %i is %i\n", number, triangularNumber);
